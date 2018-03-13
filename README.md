@@ -17,7 +17,7 @@ Use the Pepperfry furniture dataset to classify images into 8 categories namely-
 
 * sofa
 
-__Instruction__
+__Instructions__
 * Create a data folder and rename the folders as follows 
 
 `bed_jpg->bed`
