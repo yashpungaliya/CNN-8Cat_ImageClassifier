@@ -1,24 +1,25 @@
 # CNN-8Cat_ImageClassifier
 Use the Pepperfry furniture dataset to classify images into 8 categories namely- 
 
-1.bed 
+* bed 
 
-2.lamp
+* lamp
 
-3.wardrobe
+* wardrobe
 
-4.stool
+* stool
 
-5.shelf
+* shelf
 
-6.chair
+* chair
 
-7.table
+* table
 
-8.sofa
+* sofa
 
-Create a data folder and rename the folders as follows 
+__Instruction__
+* Create a data folder and rename the folders as follows 
 
-bed_jpg->bed
+`bed_jpg->bed`
 
-Use the functions in the notebook to split train-test data, load data and train the model
+* Use the functions in the notebook to split train-test data, load data and train the model
